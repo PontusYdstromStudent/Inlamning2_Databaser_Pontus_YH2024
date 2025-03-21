@@ -33,4 +33,4 @@ Jag har till denna uppgiften gjort ett helt nytt ER-diagram med för denna uppgi
 1. Öppna valfri MYSQL-klient.
 2. Kör `inlamning2_pontus_yh2024.sql` för att skapa och fylla databasen.
 
-![ER-diagram](images/er-diagram_pontus_yh2024.drawio.png)
+![ER-diagram](images/inlamning2_pontus_yh2024.drawio.png)
